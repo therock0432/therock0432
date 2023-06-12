@@ -13,12 +13,12 @@
 
 - 📫 How to reach me **sarvagyavinayak@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1BWcZz8VWx3btXEoiApO2B93-KtK4kQy5/view?usp=sharing](https://drive.google.com/file/d/1BWcZz8VWx3btXEoiApO2B93-KtK4kQy5/view?usp=sharing)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1BWcZz8VWx3btXEoiApO2B93-KtK4kQy5/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/vinaayaakk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vinaayaakk" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/nemcros" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nemcros" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@vinaayaakk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nemcros" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
