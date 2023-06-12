@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **ReactJS, SAP CPI,SAP UI5**
 
-- 💬 Ask me about **Java Script, SAP Integration and UI5**
+- 💬 Ask me about **JavaScript, SAP Integration and UI5**
 
 - 📫 How to reach me **sarvagyavinayak@gmail.com**
 
